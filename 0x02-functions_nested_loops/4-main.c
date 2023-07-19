@@ -17,6 +17,6 @@ int main(void)
 	_putchar(r + '0');
 	r = _isalpha(';');
 	_putchar(r + '0');
-	_puthar('\n');
+	_putchar('\n');
 	return (0);
 }
